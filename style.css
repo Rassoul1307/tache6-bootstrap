@@ -1,0 +1,114 @@
+.carte{
+    background: linear-gradient(90deg,  #0d423dcf 30%, #0cc7b4c9 100%);
+    max-width: 90%;
+    display: flex;
+    flex-direction: column;
+    min-height: 400px;
+    padding-top: 100px;
+    align-items: center;
+    box-shadow: 8px 15px 27px -10px rgba(0,0,0,0.75);
+}
+.carte .para1{
+    width: 70%;
+    margin: auto;
+    color: white;
+}
+.button-carte{
+    margin: auto;
+    max-width: 100%;
+    display: flex;
+}
+.img-fluid{
+    width: 420px;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.carte2{
+    background-color: #009688;
+    min-width: 90%;
+    min-height: 400px;
+    padding-top: 50px;
+    align-items: center;
+    border-radius: 20px;
+    
+}
+.modules{
+    width: 100%;
+    padding-left: 5%;
+    color: white;
+    
+}
+.module{
+    margin: 30px 0px;
+}
+.modules .gauche{
+    display: flex;
+    flex-direction: column;
+    
+}
+.modules .droite{
+    display: flex;
+    flex-direction: column;
+}
+
+.icons{
+    width: 40px;
+    
+}
+
+.carte3{
+    width: 90%;
+    border: 1px solid #009688;
+    border-radius: 20px;
+}
+.carte3 .para2{
+    width: 90%;
+    font-size: 13px;
+}
+.section-3 img{
+    width: 90px;
+    margin: auto;
+}
+.rect1{
+    border: 1px solid salmon;
+    border-radius: 20px;
+    width: 260px;
+}
+.rect2{
+    border: 1px solid rgb(7, 150, 60);
+    border-radius: 20px;
+    width: 260px;
+}
+.rect3{
+    border: 1px solid rgb(205, 214, 36);
+    border-radius: 20px;
+    width: 260px;
+}
+.rect4{
+    border: 1px solid rgb(7, 150, 60);
+    border-radius: 20px;
+    width: 260px;
+}
+.section4{
+    background-color: #F44336;
+}
+.eclipses .cercle{
+    width: 20px;
+    height: 20px;
+    background-color: #C4C4C4;
+    border-radius: 50%;
+}
+.section6{
+    background-color: #F44336;
+}
+.sponsor{
+    background-color: rgba(238, 249, 248, 0.9);
+}
+.sponsor img{
+    width: 100px;
+}
+/* .sponsor .card{
+    width: 11%;
+} */
